@@ -1,7 +1,9 @@
 
-	h1 {font-size: 54px; text-align: center}
-	h2 {font-size: 36px;}
-	h3 {font-size: 24px;}
+	h1 {font-size: 60px; text-align: center}
+	h2 {font-size: 40px;}
+	h3 {font-size: 28px;}
+	h4 {font-size: 24px;}
 	h5 {text-align: center;}
-	.block {width: 1200px; margin: 20px 0 0 20px; padding: 10px 5px 5px 30px; background-color: #e6e6e6e6;}
-	.table {background-color: #b3b3b3b3;}
+	.blockWRK {width: 1200px; margin: 20px 0 0 20px; padding: 10px 5px 5px 30px; color: #001a66; background-color: #e6e6e6e6;}
+	.blockEDU {width: 1200px; margin: 20px 0 0 20px; padding: 10px 5px 5px 30px; color: #b30000; background-color: #e6e6e6e6;}
+	.blockVOL {width: 1200px; margin: 20px 0 0 20px; padding: 10px 5px 5px 30px; color: #003300; background-color: #e6e6e6e6;}
